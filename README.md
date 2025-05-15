@@ -33,7 +33,7 @@ Organizations often struggle with visibility into inventory levels, supplier del
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](screenshot/dashboard-preview.png)
+![Dashboard Screenshot](screenshots/dashboard-preview.png)
 
 ---
 
